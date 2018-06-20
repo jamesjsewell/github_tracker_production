@@ -1,0 +1,20 @@
+{
+  "name": "github_tracker_production",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjsewell/github_tracker_production.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesjsewell/github_tracker_production/issues"
+  },
+  "homepage": "https://github.com/jamesjsewell/github_tracker_production#readme"
+}
